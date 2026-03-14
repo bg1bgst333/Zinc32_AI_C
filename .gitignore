@@ -1,0 +1,10 @@
+# Build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# Temporary / test files
+test_rpc.*
